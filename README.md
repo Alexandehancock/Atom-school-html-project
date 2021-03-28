@@ -115,3 +115,19 @@
       	<dt>Arctic robot dance</dt>
       	<dd>An interesting example of historic misinformation, English explorers in the 1960s believed to have discovered a new dance style characterized by &quot;robotic&quot;, stilted movements, being practiced by inhabitants of Northern Alaska and Canada. Later on however it was discovered that they were just moving like this because they were really cold.</dd>
       	</dl>
+        <p>
+        	For more of my research, see my <a href="http://example.com" target="_blank">exotic dance research page.</a>
+        	</p>
+
+        	<p>
+        	Yours sincerely,<br>
+        	Dr Eleanor Gaye
+        	</p>
+
+        	<p>
+        	University of Awesome motto: <q>Be awesome to each other.</q> -- <cite>Bill S Preston</cite>, <abbr title="Esquire">Esq</abbr>
+        	</p>
+
+        </body>
+
+        </html>
