@@ -70,7 +70,7 @@
   	<h2>Starting dates</h2>
 
   	<p>
-  	We are happy to accomodate you starting your study with us at any time, however it would suit us better if you could start at the beginning of a semester; the start dates for each one are as follows:
+  	We are happy to accommodate you starting your study with us at any time, however it would suit us better if you could start at the beginning of a semester; the start dates for each one are as follows:
   	</p>
 
   	<ul>
@@ -78,3 +78,18 @@
   	<li>Second semester: <time datetime="2017-01-15">15 January 2017</time></li>
   	<li>Third semester: <time datetime="2017-05-02">2 May 2017</time></li>
   	</ul>
+    <p>
+  	Please let me know if this is ok, and if so which start date you would prefer.
+  	</p>
+
+  	<p>
+  	You can find more information about <a href="http://example.com" title="University of Awesome" target="_blank">important university dates</a> on our page.
+  	</p>
+
+  	<h2>Subjects of study</h2>
+
+  	<p>
+  	At the Awesome Science Faculty, we have a pretty open-minded research facility — as long as the subjects fall somewhere in the realm of science and technology. You seem like an intelligent, dedicated researcher, and just the kind of person we'd like to have on our team. Saying that, of the ideas you submitted we were most intrigued by are as follows, in order of priority:
+  	</p>
+
+  
